@@ -78,7 +78,7 @@ body{
   font-size: 2.0rem;
 }
 
-.notifications-nav-bar h3 span{
+.notifications-nav-bar h1 span{
   background-color: var(--color-blue);
   color: var(--color-light-grayish-blue-2);
   border-radius: 0.8rem;
